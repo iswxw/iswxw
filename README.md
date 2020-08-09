@@ -8,10 +8,10 @@
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
-💻   Java Linux .Go
-🌐   HTML5 Bootstrap Node.js Vue.js
-🛢   MySQL Redis MyBatis
-🔧  Git GitHub Markdown
+- 💻  Java Linux Go Python
+- 🌐  HTML5 Bootstrap Node.js Vue.js
+- 🛢   MySQL Redis MyBatis
+- 🔧  Git GitHub Markdown
 
 ### 关于我
 - [年少有伟](https://blog.wxw.plus/)
