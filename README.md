@@ -20,6 +20,9 @@
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
 
 ⭐️ From GitHubWxw
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GitHubWxw "![GitHubWxw's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GitHubWxw/GitHubWxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
