@@ -2,9 +2,9 @@
 ### Hello GitHub Fans 👋
 ---
 ![GitHubWxw's github stats](https://github-readme-stats.vercel.app/api?username=GitHubWxw&show_icons=true&theme=radical)
-
+<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GitHubWxw&repo=bs-cloud)](https://github.com/GitHubWxw/bs-cloud)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GitHubWxw&repo=wxw-security)](https://github.com/GitHubWxw/wxw-security)
-
+-->
 ### I'm XiaoWei Wei
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Peking, China.
