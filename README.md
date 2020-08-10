@@ -2,7 +2,7 @@
 ### Hello GitHub Fans 👋
 ---
 
-[![GitHubWxw's github stats](https://github-readme-stats.vercel.app/api?username=GitHubWxw&show_icons=true&theme=radical"![GitHubWxw's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![GitHubWxw's github stats](https://github-readme-stats.vercel.app/api?username=GitHubWxw&theme=radical"![GitHubWxw's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm XiaoWei Wei
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
