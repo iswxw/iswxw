@@ -21,7 +21,7 @@
 
 ⭐️ From GitHubWxw
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GitHubWxw "![GitHubWxw's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![GitHubWxw's github stats](https://github-readme-stats.vercel.app/api?username=GitHubWxw "![GitHubWxw's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GitHubWxw/GitHubWxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
