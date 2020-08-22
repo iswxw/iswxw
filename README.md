@@ -1,27 +1,18 @@
 
-### Hello GitHub Fans 👋
+### Hello 你好 👋
+
+ 😄 很高兴遇见你,请多指教
+
+- 🔭 我是一名Jave工程师
+- 🌱 欢迎关注我的微信公众号『魏小伟』
+- ⭐ 博客：www.wxw.plus
+- ⚡ Fun fact: Data Analysis📊
+
 ---
 ![GitHubWxw's github stats](https://github-readme-stats.vercel.app/api?username=GitHubWxw&show_icons=true&theme=radical)
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GitHubWxw&repo=bs-cloud)](https://github.com/GitHubWxw/bs-cloud)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GitHubWxw&repo=wxw-security)](https://github.com/GitHubWxw/wxw-security)
 -->
-### I'm XiaoWei Wei
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Peking, China.
-- 💬 Ask me about Java 
-- ⭐ You may like bs-cloud 、wxw-security、GitBookWeb  
-- ⚡ Fun fact: Data Analysis📊
-
-### 🛠 技术栈 | Tech Stack
-- 💻  Java Linux Go Python
-- 🌐  HTML5 Bootstrap Node.js Vue.js
-- 🛢   MySQL Redis MyBatis
-- 🔧  Git GitHub Markdown
-
-### 关于我
-- [年少有伟](https://blog.wxw.plus/)
-- [CSDN](https://blog.csdn.net/qq_41893274)
-
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
 
 ⭐️ From GitHubWxw
