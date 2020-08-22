@@ -5,7 +5,7 @@
 
 - 🔭 我是一名Jave工程师
 - 🌱 欢迎关注我的微信公众号『魏小伟』
-- ⭐ 博客：www.wxw.plus
+- ⭐ 博客：blog.wxw.plus
 - ⚡ Fun fact: Data Analysis📊
 
 ---
@@ -14,7 +14,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GitHubWxw&repo=bs-cloud)](https://github.com/GitHubWxw/bs-cloud)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GitHubWxw&repo=wxw-security)](https://github.com/GitHubWxw/wxw-security)
 -->
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
-
 ⭐️ From GitHubWxw
 <!--
 **GitHubWxw/GitHubWxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
