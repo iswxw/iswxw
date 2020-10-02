@@ -4,7 +4,7 @@
  😄 很高兴遇见你,请多指教
 
 - 🔭 我是一名Jave工程师
-- 🌱 欢迎关注我的微信公众号『魏小伟』
+- 🌱 欢迎关注我的微信公众号『Java半颗糖』
 - ⭐ 博客：blog.wxw.plus
 - ⚡ Fun fact: Data Analysis📊
 
