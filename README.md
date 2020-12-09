@@ -1,9 +1,9 @@
 
 ### Hello 你好 👋
 
+> <img align="right" style="padding-right: 50px;padding-top: 10px;" src="qrcode.jpg" alt="" height="185" />
  😄 很高兴遇见你,请多指教
 
-> <img align="right" src="qrcode.jpg" alt="" height="185" />
 - 🔭 我是一名Jave工程师  
 - 🌱 欢迎关注我的微信公众号『Java半颗糖』
 - ⭐ 博客：blog.wxw.plus
