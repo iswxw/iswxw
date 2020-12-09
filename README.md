@@ -3,7 +3,7 @@
 
  😄 很高兴遇见你,请多指教
 
-> <img align="right" src="https://gitee.com/wwxw/image/raw/master/wechat/FDekBM1FXHpH.jpg" alt="微信公众号二维码:Java半颗糖" height="185" />
+> <img align="right" src="qrcode.jpg" alt="" height="185" />
 - 🔭 我是一名Jave工程师  
 - 🌱 欢迎关注我的微信公众号『Java半颗糖』
 - ⭐ 博客：blog.wxw.plus
