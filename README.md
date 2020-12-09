@@ -1,7 +1,7 @@
 
 ### Hello 你好 👋
 
-<img align="right" style="padding-left: 50px;padding-top: 10px;" src="qrcode.jpg" alt="" height="185" />
+<img align="right" src="qrcode.jpg" alt="" height="185" />
 
 I love contributing to open source, documentation technology, translation technology, and more.
 
