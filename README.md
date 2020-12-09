@@ -1,7 +1,7 @@
 
 ### Hello 你好 👋
 
-> <img align="right" style="padding-right: 50px;padding-top: 10px;" src="qrcode.jpg" alt="" height="185" />
+> <img align="right" style="padding-left: 50px;padding-top: 10px;" src="qrcode.jpg" alt="" height="185" />
  😄 很高兴遇见你,请多指教
 
 - 🔭 我是一名Jave工程师  
