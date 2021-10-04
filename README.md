@@ -24,4 +24,5 @@ Read about my [blog](https://blog.wxw.plus) (in Chinese).<img align='right' src=
 - 😶 从事 IT 研发领域中  Java & Golang 研发工程师
 - 🔥 Java、springboot、mysql、k8s等
 - 👉  个人主页：https://blog.wxw.plus/
+- 📖 1️⃣ 电子书《Go 入门到精通 》：[http://python.iswbm.com](http://python.iswbm.com/)
 - ✅ 微信公众号：『Java半颗糖』
