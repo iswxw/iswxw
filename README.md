@@ -27,4 +27,5 @@ Read about my [blog](https://blog.wxw.plus) (in Chinese).<img align='right' src=
 - ✅ 微信公众号：『Java半颗糖』
 - 📖 1️⃣ 电子书《Go 入门到精通 》：[https://golang.iswxw.com/](https://wxw-go.readthedocs.io/)  
 - 📖 2️⃣ 电子书《PHP 深入浅出》：[https://php.iswxw.com/](https://wxw-php.readthedocs.io/)  
+- 📖 2️⃣ 电子书《Pyhthon 深入浅出》：[https://python.iswxw.com/](https://wxw-python.readthedocs.io/)   
 
