@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 I love contributing to open source, documentation technology, translation technology, and more.
 
-Read about my [blog](https://blog.wxw.plus) (in Chinese).<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+Read about my [blog](https://iswxw.github.io/) (in Chinese).<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 😶 从事 IT 研发领域中  Java & Golang 研发工程师
 - 🔥 Java、springboot、mysql、k8s等
